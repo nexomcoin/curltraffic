@@ -1,6 +1,6 @@
-xx=$(curl -v -H -O https://nexom.onrender.com)
+xtx=$(curl -v -H -O https://nexom.onrender.com)
 #echo $abc
 #watch -n 5 curl -L https://nexom.onrender.com
-while sleep 1; do xx; done
+while sleep 1; do xtx; done
 
 
